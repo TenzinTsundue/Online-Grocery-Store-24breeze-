@@ -5,6 +5,7 @@ Here I will do analysis on 24brezze online grocery store in Dharamsala
 
 Basic Working
 - Packing slip pdf -> text (CSV)
+  - Advanced Order Export For WooCommerce(free plugin to export woocommerce order data)
 - clean data and need result in a dictionary
 - Compile all dictionary to a single dictionary
 - Send the result as text on phone
